@@ -2,7 +2,7 @@
 Contributors: ericlewis
 Donate link: http://www.ericandrewlewis.com/
 Tags: twentythirteen, header, animation
-Requires at least: 3.0
+Requires at least: 3.4
 Tested up to: 3.6
 Stable tag: 0.1
 License: GPLv3
